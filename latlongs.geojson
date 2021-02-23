@@ -1,0 +1,404 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.133,35.2495 ]
+    },
+    "properties": {
+    "postal_code":28054,
+    "country_code":"US",
+    "place_name":"Gastonia",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Gaston",
+    "county_code":71,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1252,35.2172 ]
+    },
+    "properties": {
+    "postal_code":28056,
+    "country_code":"US",
+    "place_name":"Gastonia",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Gaston",
+    "county_code":71,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.044,35.244 ]
+    },
+    "properties": {
+    "postal_code":28012,
+    "country_code":"US",
+    "place_name":"Belmont",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Gaston",
+    "county_code":71,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0306,35.3119 ]
+    },
+    "properties": {
+    "postal_code":28120,
+    "country_code":"US",
+    "place_name":"Mount Holly",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Gaston",
+    "county_code":71,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1862,35.3349 ]
+    },
+    "properties": {
+    "postal_code":28034,
+    "country_code":"US",
+    "place_name":"Dallas",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Gaston",
+    "county_code":71,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0959,35.3516 ]
+    },
+    "properties": {
+    "postal_code":28164,
+    "country_code":"US",
+    "place_name":"Stanley",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Gaston",
+    "county_code":71,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.096,35.2655 ]
+    },
+    "properties": {
+    "postal_code":28098,
+    "country_code":"US",
+    "place_name":"Lowell",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Gaston",
+    "county_code":71,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0831,35.2396 ]
+    },
+    "properties": {
+    "postal_code":28032,
+    "country_code":"US",
+    "place_name":"Cramerton",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Gaston",
+    "county_code":71,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7881,35.22 ]
+    },
+    "properties": {
+    "postal_code":28205,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8577,35.1316 ]
+    },
+    "properties": {
+    "postal_code":28210,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8167,35.0869 ]
+    },
+    "properties": {
+    "postal_code":28226,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7932,35.1677 ]
+    },
+    "properties": {
+    "postal_code":28211,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7669,35.1355 ]
+    },
+    "properties": {
+    "postal_code":28270,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8559,35.1796 ]
+    },
+    "properties": {
+    "postal_code":28209,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8583,35.2081 ]
+    },
+    "properties": {
+    "postal_code":28203,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8419,35.229 ]
+    },
+    "properties": {
+    "postal_code":28202,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.794,35.4858 ]
+    },
+    "properties": {
+    "postal_code":28036,
+    "country_code":"US",
+    "place_name":"Davidson",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8231,35.2132 ]
+    },
+    "properties": {
+    "postal_code":28204,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8272,35.1935 ]
+    },
+    "properties": {
+    "postal_code":28207,
+    "country_code":"US",
+    "place_name":"Charlotte",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Mecklenburg",
+    "county_code":119,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6359,35.50199999999999 ]
+    },
+    "properties": {
+    "postal_code":28081,
+    "country_code":"US",
+    "place_name":"Kannapolis",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Cabarrus",
+    "county_code":25,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4171,35.4146 ]
+    },
+    "properties": {
+    "postal_code":28124,
+    "country_code":"US",
+    "place_name":"Mount Pleasant",
+    "state_name":"North Carolina",
+    "state_code":"NC",
+    "county_name":"Cabarrus",
+    "county_code":25,
+    "community_name":"",
+    "community_code":"",
+    "accuracy":4
+    }
+  }
+]
+}
