@@ -34,8 +34,8 @@ A real estate investment and asset management firm specializing in Build-to-rent
 
 All three of these zip codes are located in Mecklenburg county and are head & shoulders above the majority of the other zip codes on the top 21 zip codes list.
 
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/charlotte-and-surrounding-hroi.JPG "Historical ROI Top 21 Zip Codes In Charlotte, NC and Surrounding Areas")
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/charlotte-zips-map.JPG "Top 21 Zip Codes Plotted On Map")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/charlotte-and-surrounding-hroi.JPG "Historical ROI Top 21 Zip Codes In Charlotte, NC and Surrounding Areas")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/charlotte-zips-map.JPG "Top 21 Zip Codes Plotted On Map")
 
 
 
@@ -43,8 +43,8 @@ All three of these zip codes are located in Mecklenburg county and are head & sh
 
 Even with multiple attempts at differencing the Series, it was only a Seasonal Decomposition of the Series that enabled me to verify stationarity with the series residuals. A Dickey-Fuller test run on the series residuals output a p-value at an acceptable level (below 0.05). Because multiple zip codes revealed the same challenge with stationarity, I continued focusing on 28204.
 
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/differencing-onelag-28204.JPG "Zip Code 28204: One Difference")
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/seasdecom-28204.JPG "Zip Code 28204: After Seasonal Decomposition")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/differencing-onelag-28204.JPG "Zip Code 28204: One Difference")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/seasdecom-28204.JPG "Zip Code 28204: After Seasonal Decomposition")
 
 
 
@@ -53,8 +53,8 @@ Even with multiple attempts at differencing the Series, it was only a Seasonal D
 By testing different non-seasonal and seasonal order terms with the SARIMA model for 5 of the top 21 zip codes, it was proven that the shorter time series was significantly better for modeling. As an example, zip code 28203 AIC score for the 1996-2018 series was ~4093 while the score for the 2010-2018 series was ~1028. This perhaps proves the disadvantage to including time series data from the period consisting of the Great Recession. The SARIMA modeling for the two series, however, revealed the same terms optimal for both periods, although the 1996-2018 series consistently showed homoscedasticity, lack of normal distribution of residuals, etc.
 
 
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/shorter-series-modeling-sarimax-vis.JPG "SARIMA Model Verification Results: Residuals + Histogram For Series 2010-2018")
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/longer-series-modeling-sarimax-vis.JPG "SARIMA Model Verification Results: Residuals + Histogram For Series 1996-2018")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/shorter-series-modeling-sarimax-vis.JPG "SARIMA Model Verification Results: Residuals + Histogram For Series 2010-2018")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/longer-series-modeling-sarimax-vis.JPG "SARIMA Model Verification Results: Residuals + Histogram For Series 1996-2018")
 
 
 
@@ -62,9 +62,9 @@ By testing different non-seasonal and seasonal order terms with the SARIMA model
 
 Dynamic forecast RMSE of ~1023 as well as a forecasted increase in mean home prices to nearly $250,000 USD by 2023 (current mean home price in Belmont, NC as of 03/2021 is $268,653). These metrics, coupled with the contextual elements of low housing supply, high-level of demand for housing in Charlotte, and more, it is advised to focus on Belmont, NC for build-to-rent real estate development, as the initial investment and potential ROI combination fares better than the rival zip code 28205
 
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/dynamic-28012.JPG "Dynamic Forecast: 28012")
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/RMSE-28012-DYNAMIC.JPG "RMSE Score For Dynamic Forecast: 28012")
-![alt text](https://github.com/emel333/time_series_home_prices/blob/main/28012-final-forecast.JPG "Zip Code28012: Forecast (2018-2023)")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/dynamic-28012.JPG "Dynamic Forecast: 28012")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/RMSE-28012-DYNAMIC.JPG "RMSE Score For Dynamic Forecast: 28012")
+![alt text](https://github.com/emel333/time_series_home_prices/blob/main/Graphics/28012-final-forecast.JPG "Zip Code28012: Forecast (2018-2023)")
 
 
 #### The key adjustments made along the way:
